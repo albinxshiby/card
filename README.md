@@ -1,7 +1,7 @@
 # CARD_UI WEBPAGE
 ##### Personal Modern Webpage with all the needed features in a CARD like UI
 
-Demo link ::-
+Website Demo link [here](https://albinxshiby.github.io/card)
 https://albinxshiby.github.io/card
 
 > 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
