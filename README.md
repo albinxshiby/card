@@ -1,6 +1,5 @@
 # CARD_UI WEBPAGE
-### Personal Modern Webpage with all the needed features in a CARD like UI
-#### Just Give me proper credits and remember me BTW
+##### Personal Modern Webpage with all the needed features in a CARD like UI
 
 Demo link ::-
 https://albinxshiby.github.io/card
