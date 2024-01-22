@@ -56,6 +56,8 @@
 body {
     background-color: var(--body-color);
     cursor:zoom-in;
+    overflow:hidden;
+    height:100vh;
 }
 
 
